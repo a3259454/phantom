@@ -16,6 +16,11 @@
 ## Licensed
 	The Phantom is licensed under the GPLv3 open source agreement, and the version rights belong to the shepherd the Phantom team.
 	
+## v0.1.7
+	1. modify bug 
+	   (1) Consensus problem
+	   (2) add sm3,sm4,sm9 crypt method
+	
 ## v0.1.6
 	1. add libdecnumber module
 	
